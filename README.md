@@ -1,5 +1,5 @@
 
-# ParameterEffectsonNueralNetworks
+# Parameter Effects on Nueral Networks
 
 In this Project, We will analyze MLPClassifier in Scikit-learn Library and investigate
 the effect of different choice of activation functions, values of regularization parameters,
